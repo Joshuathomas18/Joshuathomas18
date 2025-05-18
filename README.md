@@ -20,7 +20,7 @@
 - LLM finetuning & prompt engineering
 - LangChain & multi-agent orchestration
 - RAG with vector DBs & embeddings
-- Audio-NLP intersection (for cognitive health)
+- NLP & OCR based text extraction
 
 
 ## 🌐 Socials:
