@@ -12,7 +12,7 @@
 ## 🏆 Achievements
 
 - ✅ Selected for **Google Summer of Code 2025**
-- ⚡ Hackathon finalist in AI-based sports analytics
+- ⚡ 2 X Hackathon Winner 
 - 🧪 Maintainer of open-source research projects on NLP, MIC, and educational data
 - 
 ## 📚 I’m Currently Learning
