@@ -1,26 +1,26 @@
-# 👋 Hey there! I'm Joshua Thomas
+# 👋 Hey there! I'm Joshua Thomas Johnson
 
-## 🧠 About Me
+##  About Me
 
-🎓 I'm a pre-final year undergraduate from **National Institute of Technology Karnataka (NITK), Surathkal**, passionate about building impactful AI and NLP systems that solve real-world problems.
+I am a domain-agnostic builder and system engineer specializing in **SDE, ML, and AI Research**. Currently pursuing my B.Tech at **NITK Surathkal** (Minor in Machine Learning), I focus on developing "Vertical AI" and shipping complex, end-to-end, high-agency systems with urgency.
 
-- 🔬 **GSoC '25 Contributor** – [Human AI Foundation]  
-  _Project: Actions and Fatalities in MIC_
-- 💼 **Intern @ Kalppo** – Working on AI pipelines and production-grade ML systems
-- 🧠 Focus Areas: LLMs, NLP, Cognitive Systems, RAG, LegalTech, Data-Centric AI
+-  **Building:** Modular monoliths, agentic architectures, and AI-native cloud infrastructure.
+-  **Experience:** 
+  - Core OS & Telemetry @ **Krop AI** – Developed the operating system and Over-The-Air (OTA) telemetry for an autonomous strawberry farm container built for Nikhil Kamath (Funded by Mattermost).
+  - Backend/AI @ **Fashn AI** – Engineered the backend framework and built the MVP for a digital wardrobe and virtual try-on platform utilizing NanoBanana.
+  - Intern @ **Kalppo** – Engineered production-grade ML pipelines, building a robust recommendation engine and high-accuracy OCR extraction workflows for structured data processing..
+-  **Open Source:** Google Summer of Code (GSoC) '25 Contributor [Human AI Foundation]. Engineered and trained a custom BERT-based NLP classifier to analyze actions and fatalities in MIC.
+##  Featured High-Agency Systems & Projects
 
-## 🏆 Achievements
+- **Argus XDR:** An autonomous cybersecurity platform tailored for banking, featuring graph-based threat detection and multi-agent reasoning over real-time telemetry.
+- **Tariff Titan:** An AI-powered system for customs clearance, utilizing FastAPI, Docling, and LLM APIs for structured data extraction from complex financial documents.
 
-- ✅ Selected for **Google Summer of Code 2025**
-- ⚡ 2 X Hackathon Winner 
-- 🧪 Maintainer of open-source research projects on NLP, MIC, and educational data
-- 
-## 📚 I’m Currently Learning
 
-- LLM finetuning & prompt engineering
-- LangChain & multi-agent orchestration
-- RAG with vector DBs & embeddings
-- NLP & OCR based text extraction
+## 💻 Tech Stack & Infrastructure
+
+**Languages & Frameworks:** Python, FastAPI, Django, Flask, Flutter  
+**AI & Data:** LLM Finetuning, LangChain, Multi-Agent Orchestration, RAG, PyTorch, TensorFlow, NanoBanana  
+**Infra & Databases:** Docker, PostgreSQL, Supabase, Serverless GPU Inference, GCP, AWS
 
 
 ## 🌐 Socials:
